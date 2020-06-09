@@ -1,0 +1,25 @@
+{
+  "name": "uart",
+  "version": "1.0.0",
+  "description": "Ionic Native - Native plugins for ionic apps on android uart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuyenkan/ionic-cordova-native-uart.git"
+  },
+  "keywords": [
+    "ionic",
+    "cordova",
+    "uart",
+    "serial"
+  ],
+  "author": "Yu Yen Kan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuyenkan/ionic-cordova-native-uart/issues"
+  },
+  "homepage": "https://github.com/yuyenkan/ionic-cordova-native-uart#readme"
+}
