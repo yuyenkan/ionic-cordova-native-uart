@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/yuyenkan/ionic-cordova-native-uart/issues"
   },
-  "homepage": "https://github.com/yuyenkan/ionic-cordova-native-uart#readme"
+  "homepage": "https://github.com/yuyenkan/ionic-cordova-native-uart#readme",
+  "cordova": {
+    "id": "com.zenology.uart",
+    "platforms": [
+      "android"
+    ]
+  }
 }

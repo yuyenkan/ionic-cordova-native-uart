@@ -6,7 +6,7 @@ export interface UARTOpenOptions {
     data_size: number;
     stop_bits: number;
     parity: number;
-	flow_control: bool;
+	flow_control: boolean;
 }
 
 export interface UARTWriteOptions {
